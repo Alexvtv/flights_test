@@ -1,0 +1,126 @@
+.panelWrapper {
+  z-index: 10;
+  width: 265px;
+  min-width: 265px;
+  height: 100vh;
+  background-color: #d9d9d9;
+  position: fixed;
+  overflow: visible;
+
+  .panel {
+    height: 100%;
+    overflow-y: auto;
+  }
+
+  .closeButton {
+    cursor: pointer;
+    display: none;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    background-color: #ffb168;
+    border: 0;
+    font-size: 25px;
+    height: 26px;
+    width: 26px;
+    padding: 0;
+    p {
+      text-align: center;
+      margin: -2px 0 0;
+    }
+
+    @media (max-width: 960px) {
+      display: block;
+    }
+  }
+
+  .displayButton {
+    display: none;
+    position: absolute;
+    z-index: 10;
+    left: 265px;
+    cursor: pointer;
+    padding: 7px 30px 6px;
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #ffb168;
+    border: 0;
+    color: #ffffff;
+
+    @media (max-width: 960px) {
+      display: block;
+    }
+  }
+
+  @media (max-width: 960px) {
+    left: -265px;
+    transition: left 0.3s;
+  }
+}
+
+.panelWrapperShown {
+  .displayButton {
+    left: -265px;
+    transition: left 0.3s;
+  }
+  @media (max-width: 960px) {
+    left: 0;
+  }
+}
+
+.panelMain {
+  background-color: #fff;
+  margin-top: 36px;
+  padding: 34px 0 34px 20px;
+  color: #425668;
+  font-size: 15px;
+
+  label {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .title {
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  .sort {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  .sortOption {
+    display: flex;
+    flex-direction: row;
+    input {
+      margin: 4px 4px 0 0;
+    }
+  }
+
+  .filter, .price, .carriers {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filterOption {
+    margin: 0;
+    input {
+      position: relative;
+      top: 1px;
+    }
+    .caption {
+      position: relative;
+      top: 3px;
+      display: inline-block;
+      width: 110px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .minPrice {
+      float: right;
+      margin-right: 10px;
+    }
+  }
+}

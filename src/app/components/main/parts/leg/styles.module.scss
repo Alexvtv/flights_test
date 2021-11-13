@@ -1,0 +1,127 @@
+
+.pointsWrapper {
+  border-bottom: 1px solid #e5e5e5;
+  padding: 4px 0 12px 10px;
+  margin: 0 10px;
+
+  .points {
+    display: inline-block;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    @media (max-width: 1200px) {
+      font-size: 18px;
+    }
+  }
+
+  .arrow {
+    position: relative;
+    line-height: 30px;
+    font-size: 34px;
+    margin: 0 2px 0 4px;
+    top: 3px;
+    color: #0096d8;
+    @media (max-width: 1200px) {
+      top: 2px;
+      font-size: 29px;
+    }
+  }
+
+  .uid {
+    position: relative;
+    top: -1px;
+    color: #0096d8;
+    font-size: 17px;
+    @media (max-width: 1200px) {
+      font-size: 16px;
+    }
+  }
+}
+
+.dateParams {
+  margin: 8px 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+
+  @media (max-width: 960px) {
+    margin: 8px 5px;
+  }
+
+  .param {
+    margin: 0;
+
+    .time {
+      font-size: 22px;
+    }
+
+    .date, .weekDay {
+      color: #0087c9;
+      font-size: 19px;
+
+      @media (max-width: 960px) {
+        top: 22px;
+        position: relative;
+        display: inline-block;
+        margin: 0 0 15px 0;
+      }
+    }
+    .date_left, .weekDay_left {
+      left: -70px;
+    }
+    .date_right, .weekDay_right {
+      left: 70px;
+    }
+  }
+
+  .duration {
+    position: absolute;
+    margin: 3px 0 0;
+    display: block;
+    width: 100%;
+    font-size: 21px;
+    text-align: center;
+    top: 0;
+
+    .clockImage {
+      position: relative;
+      top: 4px;
+      margin: 0 7px;
+    }
+  }
+}
+
+.transfers {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 30px;
+  margin: -4px 50px 0;
+  .transferCount {
+    margin: -1px auto 0;
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 18px;
+    color: #ff8e1d;
+    background-color: #fff;
+  }
+  .transferLine {
+    position: absolute;
+    width: 100%;
+    top: 5px;
+  }
+}
+
+.carrier {
+  font-size: 18px;
+  margin: 3px 0 11px 20px;
+}
+
+.legSeparation {
+  height: 2px;
+  border: 0;
+  background-color: #0084c5;
+  margin: 0;
+}

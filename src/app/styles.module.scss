@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction: row;
+  color: #1c1c1c;
+
+  .loading {
+    margin: 50px auto 0;
+    font-size: 25px;
+  }
+}

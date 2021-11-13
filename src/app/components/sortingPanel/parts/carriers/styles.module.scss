@@ -1,0 +1,28 @@
+.filterOption {
+  margin: 0;
+  padding: 0;
+  input {
+    position: relative;
+    top: -1px;
+  }
+  .caption {
+    position: relative;
+    margin-top: 0;
+    top: 1px;
+    display: inline-block;
+    width: 110px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 20px;
+  }
+  .minPrice {
+    float: right;
+    margin: 2px 10px 0 0;
+  }
+}
+
+.inactiveFilterOption {
+  background-color: #ebebeb;
+  cursor: auto!important;
+}

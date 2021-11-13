@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72454dca-8ed2-4201-9c62-5441d25ff23d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Feather-core-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/data/flights.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/parts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/parts/leg/Leg.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/parts/leg/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/parts/leg/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/main/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/SortingPanel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/parts/carriers/Carriers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/parts/carriers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/parts/carriers/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/parts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/sortingPanel/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20mu6HuXefS4SlMa8iiCl4962zd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79017\Desktop\react\flights\src\app\components\sortingPanel\parts" />
+      <recent name="C:\Users\79017\Desktop\react\flights\public" />
+      <recent name="C:\Users\79017\Desktop\react\flights\assets" />
+      <recent name="C:\Users\79017\Desktop\react\flights" />
+      <recent name="C:\Users\79017\Desktop\react\flights\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79017\Desktop\react\flights\src\app" />
+      <recent name="C:\Users\79017\Desktop\react\flights\src\app\components\sortingPanel" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72454dca-8ed2-4201-9c62-5441d25ff23d" name="Default Changelist" comment="" />
+      <created>1636661906381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636661906381</updated>
+      <workItem from="1636661919103" duration="223000" />
+      <workItem from="1636662255725" duration="4179000" />
+      <workItem from="1636667887020" duration="556000" />
+      <workItem from="1636702582045" duration="26594000" />
+      <workItem from="1636753689184" duration="8080000" />
+      <workItem from="1636794441391" duration="45602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="264" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636662295197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="378" y="264" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1636662295197" />
+    <state width="1897" height="265" key="GridCell.Tab.0.bottom" timestamp="1636762084217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1636762084217" />
+    <state width="1897" height="265" key="GridCell.Tab.0.center" timestamp="1636762084216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1636762084216" />
+    <state width="1897" height="265" key="GridCell.Tab.0.left" timestamp="1636762084216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1636762084216" />
+    <state width="1897" height="265" key="GridCell.Tab.0.right" timestamp="1636762084216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1636762084216" />
+    <state x="606" y="133" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1636748064188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="133" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1636748064188" />
+    <state x="667" y="243" width="585" height="554" key="find.popup" timestamp="1636847179898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="243" width="585" height="554" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1636847179898" />
+  </component>
+</project>
